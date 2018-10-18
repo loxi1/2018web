@@ -1,0 +1,20 @@
+SMAP
+index_jsp.java
+JSP
+*S JSP
+*F
++ 0 index.jsp
+index.jsp
++ 1 cabecera.jsp
+comunes/cabecera.jsp
++ 2 piepagina.jsp
+comunes/piepagina.jsp
+*L
+1,2:52
+5#1,93:53
+97,33:146
+130,2:179,3
+132,3:185
+2#0,2:188
+1#2,50:190
+*E

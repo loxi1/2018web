@@ -1,0 +1,14 @@
+SMAP
+traductor_jsp.java
+JSP
+*S JSP
+*F
++ 0 traductor.jsp
+traductor.jsp
++ 1 piepagina.jsp
+comunes/piepagina.jsp
+*L
+5,68:49
+5#1,21:117
+72#0,5:137
+*E
